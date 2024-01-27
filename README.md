@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-here 's my academic and personal projects
+here 's my academic and personal project of Coupon Prediction System
